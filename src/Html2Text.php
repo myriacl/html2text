@@ -17,7 +17,7 @@
  * GNU General Public License for more details.
  */
 
-namespace Html2Text;
+namespace AltHtml2Text;
 
 class Html2Text
 {
